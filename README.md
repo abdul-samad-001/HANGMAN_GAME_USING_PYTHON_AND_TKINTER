@@ -1,9 +1,5 @@
-# HANGMAN_GAME_USING_PYTHON_AND_TKINTER
-Hangman Game in Python 🐍
-I created a classic Hangman game using Python! This project is a fun and interactive way to guess words by guessing one letter at a time. The game includes:
-
-Word selection from a predefined list.
-Visual representation of the hangman as you progress.
-User-friendly input prompts and error handling.
-Feel free to explore, run, or modify the code! 🎮
-Suggestions and contributions are welcome! 🚀
+# HANGMAN-GAME
+GUI BASED GAME
+Game designed by "python tutorials".
+for more support visit the youtube channel: https://youtu.be/99zOhml1-6s .
+save all the file in same folder and make sure that tkinter module is installed before executing the program.
